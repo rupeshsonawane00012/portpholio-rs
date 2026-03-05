@@ -1,0 +1,331 @@
+Act as a senior frontend engineer, UI/UX designer, and performance optimization expert.
+
+Build a modern, production-ready developer portfolio website for me.
+
+The portfolio must be highly professional, visually stunning, fast, responsive, recruiter-friendly, and optimized for performance and UX.
+
+Use the following tech stack:
+
+React + Vite
+TailwindCSS
+Framer Motion for animations
+React Router for page routing
+
+Follow best practices for accessibility, SEO, and performance.
+
+---
+
+# Developer Information
+
+Name: Rupesh Sonawane
+Role: Software Engineer
+
+Bio:
+I’m Rupesh Sonawane, a Computer Science graduate passionate about building performant web applications and cloud infrastructure. I enjoy solving problems and creating systems that scale.
+
+Location: Pune, India
+
+---
+
+# Skills
+
+Frontend:
+HTML
+CSS
+JavaScript
+
+Cloud / DevOps:
+AWS
+Docker
+Linux
+
+Tools:
+Git
+GitHub
+GitLab
+
+Programming:
+Python
+
+---
+
+# Social Links
+
+GitHub
+https://github.com/rupeshsonawane00012
+
+LinkedIn
+https://www.linkedin.com/in/rupesh-sonawane12/
+
+Email
+[rupeshsonawane346@gmail.com](mailto:rupeshsonawane346@gmail.com)
+
+---
+
+# Projects
+
+Create a project showcase section with modern project cards.
+
+Projects:
+
+1️⃣ AI Emotion Detection System
+AI-based system that detects user emotions in real time.
+
+Tech:
+Python
+Machine Learning
+OpenCV
+
+---
+
+2️⃣ AWS Highly Available Web Application
+
+Architecture includes:
+Load Balancer
+Auto Scaling
+Multi-AZ architecture
+
+Tech:
+AWS
+Linux
+Docker
+
+---
+
+3️⃣ Portfolio Website
+
+Modern developer portfolio with animations.
+
+Tech:
+React
+TailwindCSS
+Framer Motion
+
+GitHub link for all projects:
+https://github.com/rupeshsonawane00012
+
+---
+
+# Pages Required
+
+Create a multi-page website with routing.
+
+Pages:
+
+Home
+Projects
+Articles / Blog
+About
+Contact
+
+---
+
+# Hero Section
+
+Design a modern hero section similar to top developer portfolios.
+
+Left side content:
+
+"Hey, I'm Rupesh 👋"
+
+Main title:
+
+Software Engineer
+
+Description:
+
+I build thoughtful, high-quality web experiences and scalable cloud infrastructure.
+
+Add two CTA buttons:
+
+View Projects
+Get in Touch
+
+Right side content:
+
+A stylized developer avatar illustration.
+
+The avatar should be an SVG developer character sitting with sunglasses and a laptop-style aesthetic.
+
+Add floating motion animation using Framer Motion.
+
+Add glowing animated gradient trails behind the avatar.
+
+---
+
+# UI Design Requirements
+
+Use a modern dark theme by default.
+
+Color palette inspiration:
+
+Black background
+Purple gradient accents
+Glassmorphism UI elements
+Soft glowing buttons
+
+Typography must look clean and modern.
+
+Spacing must follow modern SaaS design patterns.
+
+The design must feel similar to portfolios of engineers from companies like Stripe, Vercel, or Linear.
+
+---
+
+# Animations
+
+Add smooth animations using Framer Motion:
+
+Hero floating avatar
+Scroll reveal animations
+Button hover effects
+Project card hover animation
+Section transitions
+
+Animations should be smooth and professional.
+
+---
+
+# Special Features
+
+Include all of the following:
+
+Dark / Light mode toggle
+
+GitHub stats integration:
+Show GitHub profile stats and contribution graph
+
+Contact form with validation
+
+Resume download button
+
+Scroll animations
+
+Animated background gradients
+
+Interactive cursor glow
+
+Responsive navigation menu
+
+Mobile optimized layout
+
+---
+
+# Articles / Blog Page
+
+Create a separate page for articles.
+
+Include example placeholder articles like:
+
+Docker Networking Explained
+Understanding React Internals
+My DevOps Learning Journey
+Building Scalable AWS Architecture
+
+Articles should be displayed as cards.
+
+---
+
+# About Page
+
+Include sections for:
+
+Introduction
+Skills overview
+Tech stack
+Career goals
+
+---
+
+# Contact Page
+
+Include:
+
+Email contact form
+GitHub link
+LinkedIn link
+
+Design should be modern and minimal.
+
+---
+
+# Performance Requirements
+
+Ensure the site is optimized for:
+
+Fast loading
+Lazy loaded images
+Clean code structure
+SEO-friendly HTML structure
+
+Target Lighthouse score:
+
+Performance: 90+
+Accessibility: 90+
+Best Practices: 90+
+SEO: 90+
+
+---
+
+# Folder Structure
+
+Generate a clean project structure like:
+
+src
+components
+Navbar.jsx
+Hero.jsx
+Skills.jsx
+Projects.jsx
+GithubStats.jsx
+Contact.jsx
+Footer.jsx
+
+pages
+Home.jsx
+ProjectsPage.jsx
+Articles.jsx
+About.jsx
+ContactPage.jsx
+
+assets
+avatar.svg
+
+App.jsx
+main.jsx
+
+---
+
+# Code Output
+
+Generate the COMPLETE working project including:
+
+package.json
+All React components
+Tailwind configuration
+Routing setup
+Framer Motion animations
+Responsive layout
+Reusable components
+
+The code must run with:
+
+npm install
+npm run dev
+
+---
+
+# Important
+
+The website must include the 6 most important characteristics of a great website:
+
+Clear purpose
+High-quality content
+Excellent UI/UX
+High performance
+Multi-device responsiveness
+Accessibility and usability
+
+---
+
+Generate the full project code step-by-step.
