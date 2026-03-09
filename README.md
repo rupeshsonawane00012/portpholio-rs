@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Developer Portfolio
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# portpholio-rs
+>>>>>>> f624e2c17fd15f11aa9480f27a4d5dc361765555

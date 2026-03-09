@@ -170,7 +170,7 @@ export function Hero() {
                   y1="135"
                   x2="95"
                   y2="135"
-                  stroke="#8b5cf6"
+                  stroke="#be6216"
                   strokeWidth="2"
                 />
                 <line
@@ -178,7 +178,7 @@ export function Hero() {
                   y1="145"
                   x2="110"
                   y2="145"
-                  stroke="#ec4899"
+                  stroke="#c17025"
                   strokeWidth="2"
                 />
                 <line
@@ -186,7 +186,7 @@ export function Hero() {
                   y1="155"
                   x2="90"
                   y2="155"
-                  stroke="#8b5cf6"
+                  stroke="#bc7121"
                   strokeWidth="2"
                 />
 
@@ -200,7 +200,7 @@ export function Hero() {
                   width="15"
                   height="10"
                   rx="3"
-                  fill="#1a1a2e"
+                  fill="#000000"
                 />
                 <rect
                   x="105"
